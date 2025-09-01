@@ -1,17 +1,17 @@
 {
-  "_base": "https://raw.githubusercontent.com/Sangarshanan/strudel-samples/main//",
-  "breaks": [
-    "breaks/10_break.wav",
-    "breaks/11_break.wav",
-    "breaks/12_break.wav",
-    "breaks/13_break.wav",
-    "breaks/14_break.wav"
-  ],
-  "pads": [
-    "pads/10_angel_pad.wav",
-    "pads/11_angel_pad.wav",
-    "pads/12_angel_pad.wav",
-    "pads/13_angel_pad.wav",
-    "pads/14_angel_pad.wav"
-  ]
+    "_base": "https://raw.githubusercontent.com/Sangarshanan/strudel-samples/main/",
+    "breaks": [
+        "breaks/10_break.wav",
+        "breaks/11_break.wav",
+        "breaks/12_break.wav",
+        "breaks/13_break.wav",
+        "breaks/14_break.wav"
+    ],
+    "pads": [
+        "pads/10_angel_pad.wav",
+        "pads/11_angel_pad.wav",
+        "pads/12_angel_pad.wav",
+        "pads/13_angel_pad.wav",
+        "pads/14_angel_pad.wav"
+    ]
 }
